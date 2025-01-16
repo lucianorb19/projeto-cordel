@@ -55,7 +55,7 @@ section{ /*efeito paralax*/
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--font3);
-    font-size: 2.5vw;
+    font-size: 2.5vw; /*Tamanho da fonte é 2.5% da largura da tela*/
 }
 
 section.normal{
